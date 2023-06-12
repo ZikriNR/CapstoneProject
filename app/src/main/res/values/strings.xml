@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NiTani</string>
+    <string name="placeholder_search">Cari</string>
+    <string name="category_pupuk">Pupuk</string>
+    <string name="category_bibit">Bibit</string>
+    <string name="category_buah">Buah</string>
+    <string name="category_bahan_olahan">Bahan Olahan</string>
+    <string name="navigation_item_beranda">Beranda</string>
+    <string name="navigation_item_penjualan">Penjualan</string>
+    <string name="navigation_item_pencarian">Pencarian</string>
+    <string name="navigation_item_keranjang">Keranjang</string>
+    <string name="navigation_item_pengaturan">Pengaturan</string>
+    <string name="rekomendasi_madu">Madu Multiflora Wapas</string>
+    <string name="rekomendasi_kelapa">Bibit Kelapa Kopyor</string>
+    <string name="rekomendasi_lemon">Lemon California</string>
+    <string name="rekomendasi_madu_harga">Rp 80.000</string>
+    <string name="rekomendasi_kelapa_harga">Rp 25.000</string>
+    <string name="rekomendasi_lemon_harga">Rp 5.000</string>
+</resources>
